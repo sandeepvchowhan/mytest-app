@@ -33,4 +33,4 @@ D:\ionic_project\myApp\platforms\android\project.properties
 Example:
 target=android-23
 
-#android list target from command line should show the version of android target installed on your machine.
+android list target from command line should show the version of android target installed on your machine.
